@@ -2,7 +2,7 @@
 
 ### Información Personal
 - **Nombre completo:** Elsa Esther Miguez
-- **Legajo:** 153.990-5
+- **Legajo:** xxx
 - **Carrera:** Ingeniería en Sistemas
 
 ---
