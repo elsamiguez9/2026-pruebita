@@ -3,12 +3,14 @@
 ### Información Personal
 - **Nombre completo:** Elsa Esther Miguez
 - **Legajo:** 153.990-5
-- **Carrera:** Ingeniería
+- **Carrera:** Ingeniería en Sistemas
 
 ---
 
 ### Sobre mí
 Actualmente estoy cursando **Paradigmas de Programación**, **Tecnologías de la Automatización** e **Investigación Operativa**. Mi camino en la facultad tuvo varias etapas y pausas, pero hoy estoy de vuelta con el objetivo firme de recibirme de ingeniero. 
+
+En mis ratos libres, me gusta mucho **jugar al fútbol** y **escuchar música**, actividades que me ayudan a despejar la cabeza entre tanto estudio y algoritmos. 
 
 Me interesa mucho cómo la tecnología puede optimizar procesos y resolver problemas complejos. Considero que la perseverancia es una de mis mayores herramientas en esta etapa de mi carrera.
 
