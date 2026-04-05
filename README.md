@@ -16,3 +16,5 @@ Me interesa mucho cómo la tecnología puede optimizar procesos y resolver probl
 
 ### Un pensamiento sobre el mundo actual
 Creo que estamos en una era de cambios acelerados donde la capacidad de **adaptarse y volver a empezar** es fundamental. La tecnología avanza rápido, pero la base humana y la lógica que aprendemos en materias como Paradigmas son las que nos permiten no quedarnos atrás.
+
+![Mi Foto](lola.jpg)
