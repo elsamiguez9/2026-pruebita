@@ -1,20 +1,16 @@
 # Presentación
 
 ### Información Personal
-- **Nombre completo:** Elsa Esther Miguez
-- **Legajo:** xxx
-- **Carrera:** Ingeniería en Sistemas
+- **Nombre completo:** Mariano 
+- **Legajo:** 
 
 ---
 
 ### Sobre mí
-Actualmente estoy cursando **Paradigmas de Programación**, **Tecnologías de la Automatización** e **Investigación Operativa**. Mi camino en la facultad tuvo varias etapas y pausas, pero hoy estoy de vuelta con el objetivo firme de recibirme de ingeniero. 
+Además de esta materia, actualmente estoy cursando **Tecnologías de la Automatización** e **Investigación Operativa**. 
 
-En mis ratos libres, me gusta mucho **jugar al fútbol** y **escuchar música**, actividades que me ayudan a despejar la cabeza entre tanto estudio y algoritmos. 
+En distintos momentos tuve que priorizar responsabilidades laborales y familiares por sobre la facultad, pero sigo con el objetivo firme de recibirme de ingeniero. Considero que la perseverancia es una de mis mayores herramientas en esta etapa de mi carrera.
 
-Me interesa mucho cómo la tecnología puede optimizar procesos y resolver problemas complejos. Considero que la perseverancia es una de mis mayores herramientas en esta etapa de mi carrera.
+En mis ratos libres, trato de desconectar jugando al fútbol o escuchando música.
 
-### Un pensamiento sobre el mundo actual
-Creo que estamos en una era de cambios acelerados donde la capacidad de **adaptarse y volver a empezar** es fundamental. La tecnología avanza rápido, pero la base humana y la lógica que aprendemos en materias como Paradigmas son las que nos permiten no quedarnos atrás.
-
-![Mi Foto](lola.jpg)
+![Mi Foto](foto.jpg)
